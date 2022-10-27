@@ -229,3 +229,63 @@
     background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 91%);
 
 }
+.heading{
+    border: 1px solid ;
+    width: 780px;
+    margin: auto;
+}
+
+ .bannar3_heading{
+    border: 1px solid ;
+    display: inline-block;
+}
+ .bannar3_heading h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-transform: capitalize;
+    font-size: 16px;
+    margin: 0px;
+
+}
+ .bannar3_heading h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 40px;
+    width: 50%;
+
+}
+.bannar3{
+    border: 1px solid ;
+    width: 780px;
+    margin: auto;
+}
+
+.bannar3 .bannar3_service{
+    border: 1px solid red;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    padding: 0px 25px;
+}
+.bannar3 .bannar3_service .bannar3_service_img{
+    border: 1px solid red;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+}
+.bannar3 .bannar3_service img 
+{
+    display: block;
+    width: 100%;
+
+    
+}
+.bannar3 .bannar3_service h2 
+{
+display: inline-block;
+}
+.bannar3 .bannar3_service p {
+    display: inline-block;
+
+}
