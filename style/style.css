@@ -1,0 +1,231 @@
+.bannar {
+    /* border: 1px solid red; */
+    width: 780px;
+    margin: auto;
+
+
+    background-image: url("../image/bannar1.png");
+    background-position-y: 14px;
+    background-position-x: 330px;
+    background-size: 600px;
+    background-repeat: no-repeat;
+
+}
+
+.bannar .logo {
+    /* border: 1px solid red; */
+    width: 100px;
+
+}
+
+.bannar .nav_link {
+    /* border: 1px solid black; */
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-top: 7px;
+
+
+}
+
+.bannar .nav_link li {
+    display: inline-block;
+    list-style-type: none;
+
+
+}
+
+.bannar .nav_link li a {
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    ;
+    padding: 15px 20px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    transition-duration: .3s;
+}
+
+.bannar .nav_link li a:hover {
+    color: brown;
+}
+
+.bannar_document {
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}
+
+.bannar_document .left_part {
+    /*     
+    border: 1px solid red; */
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-top: 50px;
+
+}
+
+.bannar_document .left_part h5 {
+    font-family: 'Miniver', cursive;
+    font-weight: normal;
+    font-size: 22px;
+    margin: 0px
+}
+
+.bannar_document .left_part h1 {
+    font-family: 'Miniver', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin: 0px;
+    margin-top: 20px;
+
+}
+
+.bannar_document .left_part h2 {
+    font-family: 'Miniver', cursive;
+    font-weight: normal;
+    font-size: 28px;
+    text-transform: capitalize;
+    margin: 0px;
+    margin-top: 20px;
+
+}
+
+.bannar_document .left_part a {
+    display: inline-block;
+    border: 1px solid;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-left: 7px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 91%);
+}
+
+.bannar_document .right_part {
+    /* border: 1px solid red; */
+    display: inline-block;
+    width: 45%;
+    text-align: right;
+
+}
+
+.bannar_document .right_part img {
+    display: inline-block;
+    height: 480px;
+    width: 345px;
+    margin-left: 120px;
+    margin: -40px;
+}
+
+.count {
+    /* border: 1px solid ; */
+    margin: 0px;
+    padding: 0px;
+
+
+
+}
+
+.count .count_body {
+    display: inline-block;
+    /* border: 1px solid red; */
+    padding: 15px 20px;
+    font-family: sans-serif;
+    padding: 15px 20px;
+}
+
+.count .count_body h4 {
+    font-weight: bold;
+    font-size: 22px;
+
+    background: #F02929;
+    background: linear-gradient(to right, #F02929 0%, #0D0B2E 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.count .count_body p {
+    font-weight: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.bannar2 {
+    /* border: 1px solid red; */
+    width: 780px;
+    margin: auto;
+    background-image: url("../image/bannar2.png");
+    background-repeat: no-repeat;
+    background-position-y: 32px;
+    background-position-x: -180px;
+    background-size: 600px;
+}
+
+.bannar2 .left_part {
+    display: inline-block;
+    /* border: 1px solid ; */
+    width: 50%;
+
+}
+
+.bannar2 .left_part img {
+    height: 600px;
+}
+
+.bannar2 .right_part {
+    display: inline-block;
+    /* border: 1px solid; */
+    width: 48%;
+    vertical-align: top;
+    padding-top: 90px;
+}
+
+.bannar2 .right_part h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200px;
+
+
+}
+
+.bannar2 .right_part h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.bannar2 .right_part p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300px;
+    text-align: justify;
+    margin-right: 10px;
+}
+
+.bannar2 .right_part a {
+    border: 1px solid;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    ;
+    padding: 15px 20px;
+    font-size: 16px;
+    color: black;
+    margin-top: 10px;
+    font-weight: bold;
+    background: rgb(34, 193, 195);
+    border-radius: 5px;
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 91%);
+
+}
